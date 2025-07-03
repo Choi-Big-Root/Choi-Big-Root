@@ -1,3 +1,5 @@
+### 25년 7월 3일 기준 git 업데이트가 느린 이유는 현재 사용하던 장비를 팔고 맥북 구매를 위해 준비중입니다.
+
 # 👋 Hi, I’m Choi-Big-Root
 
 금융 MTS(Mobile Trading System) 영역에서  
