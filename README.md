@@ -1,4 +1,4 @@
-### 25년 7월 3일 기준 git 업데이트가 느린 이유는 현재 사용하던 장비를 팔고 맥북 구매를 위해 준비중입니다.
+
 
 # 👋 Hi, I’m Choi-Big-Root
 
@@ -49,3 +49,13 @@ Flutter 기반의 크로스플랫폼 앱 개발자로 확장 중입니다.
 
 - 기술 블로그: [https://0-to-infinite.tistory.com/](https://0-to-infinite.tistory.com/)
 
+
+## 비고
+**25년 7월 4일 기준 MacBook을 구매 했습니다!!
+** MacBook Pro 13-inch, M1, 2020
+** Android Studio : Android Studio Meerkat Feature Drop | 2024.3.2 Patch 1
+** Xcode : Version 16.4 (16F6)
+** Flutter 3.32.5 • channel stable • https://github.com/flutter/flutter.git
+** Framework • revision fcf2c11572 (10 days ago) • 2025-06-24 11:44:07 -0700
+** Engine • revision dd93de6fb1 (10 days ago) • 2025-06-24 07:39:37 -0700
+** Tools • Dart 3.8.1 • DevTools 2.45.1
